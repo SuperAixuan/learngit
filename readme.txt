@@ -1,3 +1,3 @@
 i love lyx 
 i will try my best to earn money
-git is free software
+git is a free software
